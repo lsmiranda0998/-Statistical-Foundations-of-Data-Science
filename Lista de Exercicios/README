@@ -1,0 +1,83 @@
+Lista 01 de Exercícios: Ler os 2 primeiros capítulos de FPP e entregar os exercícios 2, 5 e 9 do Set A (pag 10) e exercícios 1, 5, 7, 11 da seção Review. (Freedman, Pisani e Purves = FPP: veja o pdf na webpage do curso: https://homepages.dcc.ufmg.br/~assuncao/EstatCC/material.html
+
+Lista 02 de FECD
+
+Criar um notebook python (ou um arquivo .py) que refaÃ§a os grÃ¡ficos e cÃ¡lculos bÃ¡sicos feitos usando o R nos slides da aula de visualizaÃ§Ã£o e estatÃ­sticas bÃ¡sicas. Mostrar apenas os comandos, nÃ£o precisa salvar os grÃ¡ficos. 
+
+Vamos usar os dados de pressÃ£o sanguÃ­nea (sistÃ³lica) no arquivo BloodPressure01.txt (na webpage do curso. Os dados foram extraÃ­dos desse site (se ainda existir):
+http://www.math.yorku.ca/Who/Faculty/Ng/ssc2003/BPMain.htm
+
+Vamos tambÃ©m usar os dados de populaÃ§Ã£o por municÃ­pio (arquivo na webpage da disciplina)
+
+
+Mais especificamente, fazer o seguinte: 
+- Usando pandas, ler os dados do arquivo BloodPressure01.txt 
+- reproduzir os comandos do slide 10 de T01-RDados.pdf
+- histograma bÃ¡sico do slide 13
+- grÃ¡ficos do slide 15
+
+- Usando pandas, ler os dados de populaÃ§Ã£o por municÃ­pio: arquivo POP2006.csv
+- Refazer os histogramas dos slides 17 e 18
+
+- Usando pandas, ler os dados de futebol do arquivo CampeonatoBrasileiro2014.txt
+- Refazer os stem-and-leaf (ramo-e-folhas) dos slides 21 e 22
+https://www.geeksforgeeks.org/stem-and-leaf-plots-in-python/  
+
+- Com os dados do arquivo de pressÃ£o sistÃ³lica, refazer o box-plot simples do slide 23
+- Refazer slides 28, 29, 30, 33
+
+- Usando os dados do arquivo mtcars.csv, fazer uma matriz de scatterplots como no slide 38. Ver a descriÃ§Ã£o das variÃ¡veis (que eu jÃ¡ nÃ£o me lembrava em sala de aula) aqui:
+https://rpubs.com/neros/61800
+
+Lista 04 de exercícios
+Fazer os exercícios 1, 2, 3 do Capítulo 3 (Variáveis Aleatórias) do Livro de Exercícios. Os comandos mostrados no livro estão em R. Eu fiz um notebook descrevendo em detalhes a parte de números aleatórios em Python. Vai em anexo. Pode usar o que você preferir mas lembre-se de entregar a lista em pdf e com os resultados (não vamos rodar seus notebooks). Estou colocando a data de entrega para sexta-feira (até 23:55) pois esta é uma lista bem curta. E quinta-feira devemos ter uma nova lista.
+
+Lista 05 de FECD-A
+fazer os exercícios 4, 7, 12, 16, 21 do Livro de Exercícios. Se preferir, pode fazer os exercícios usando python.
+
+                                                                                        
+Lista 06 de FECD-A
+a)  10, 19, 30 e 33 do capítulo 03 do livro de exercícios.
+
+b) ler os 7 slides de 34 a 40 do arquivo T05-AjusteDistribuicao.pdf (BAIXE A NOVA VERSAO!!!!) e refaça os comandos para a análise dos tempos de reinado dos imperadores romanos (comandos e dados na webpage). Não precisa entregar esta parte.
+
+Lista 07 de FECD
+
+Fazer os seguintes exercícios (eles servem como treino para a prova de sábado):
+
+Cap 4: ex 3, 9
+
+Cap 5: ex 1, 2, 8, 15, 17
+
+Cap 6: ex 2, 3
+
+Não coloquei exercícios de vetores aleatórios contínuos, que será coberto na aula de quinta-feira. Este assunto **não** será cobrado na prova de sábado, apenas vetores aleatórios DISCRETOS. 
+                                                                                        
+ Lista 08 de FECD
+
+aqui vai a Lista 08 de FECD. São exercícios com vetores aleatórios, a maioria deles usando a Gaussiana multivariada. São os exercícios 8, 9 e 10 do Capítulo 7 e o exercício 3 do capítulo 6 do Livro de Exercícios.   
+
+Alguns exercícios possuem solução no próprio livro. Alguns usam o R mas você pode fazer em python, se preferir. Alguns datasets necessários: 
+
+- Dataset iris, exercício 9: está no UCI - Machine Learning Repository em https://archive.ics.uci.edu/ml/datasets/iris
+
+- Dataset stiffness: https://homepages.dcc.ufmg.br/~assuncao/EstatCC/Dados/stiffness.txt
+
+Lista 09 de FECD-A
+
+a lista 09 é bem prática. Os exercícios estão montados usando o R. Se você preferir, pode usar python mas terá de procurar por conta própria as correspondências aproximadas com as ferramentas do R.
+
+Fazer os seguintes exercícios: 
+
+Seção 8.1 : exercícios 1 e 2
+
+Seção 8.2: exerc. 1
+
+Lista 10
+
+A última lista de FECD. São exercícios simples e alguns possuem resposta no livro de exercícios.
+
+Cap 9: Exercícios 3, 4, 5, 6, 8
+
+Cap 10: Exercícios 1, 2
+
